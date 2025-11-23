@@ -1,0 +1,36 @@
+Rainfall using knots & square root transformation for Richmond area
+7  -99.9
+3
+0
+0
+0
+152.0  153.7  0  5  0.0
+-29.9  -27.8  0  5  0.0
+-20.0  5000.0  1  1  0.0
+4000.0
+2
+2
+31
+0
+1
+1
+Z:\work\0_Common_Data\6_ClimateGridded\4_CSIROGrids\0_Working\ANUSPLIN44\workarea\working\Chi\3_ANUSLIN_trial\2_Working\3_Test_sample_ANUClimate\Richmond_test_ANUdata\Richmond_rain_data_ANU_201703.dat
+300
+20
+
+100
+Z:\work\0_Common_Data\6_ClimateGridded\4_CSIROGrids\0_Working\ANUSPLIN44\workarea\working\Chi\3_ANUSLIN_trial\2_Working\3_Test_sample_ANUClimate\Richmond_test_ANUdata\2017_Mar_daily_ANU.not
+
+
+Z:\work\0_Common_Data\6_ClimateGridded\4_CSIROGrids\0_Working\ANUSPLIN44\workarea\working\Chi\3_ANUSLIN_trial\2_Working\3_Test_sample_ANUClimate\Richmond_test_ANUdata\2017_Mar_daily_ANU.res
+Z:\work\0_Common_Data\6_ClimateGridded\4_CSIROGrids\0_Working\ANUSPLIN44\workarea\working\Chi\3_ANUSLIN_trial\2_Working\3_Test_sample_ANUClimate\Richmond_test_ANUdata\2017_Mar_daily_ANU.rcv
+Z:\work\0_Common_Data\6_ClimateGridded\4_CSIROGrids\0_Working\ANUSPLIN44\workarea\working\Chi\3_ANUSLIN_trial\2_Working\3_Test_sample_ANUClimate\Richmond_test_ANUdata\2017_Mar_daily_ANU.opt
+Z:\work\0_Common_Data\6_ClimateGridded\4_CSIROGrids\0_Working\ANUSPLIN44\workarea\working\Chi\3_ANUSLIN_trial\2_Working\3_Test_sample_ANUClimate\Richmond_test_ANUdata\2017_Mar_daily_ANU.sur
+Z:\work\0_Common_Data\6_ClimateGridded\4_CSIROGrids\0_Working\ANUSPLIN44\workarea\working\Chi\3_ANUSLIN_trial\2_Working\3_Test_sample_ANUClimate\Richmond_test_ANUdata\2017_Mar_daily_ANU.cov
+Z:\work\0_Common_Data\6_ClimateGridded\4_CSIROGrids\0_Working\ANUSPLIN44\workarea\working\Chi\3_ANUSLIN_trial\2_Working\3_Test_sample_ANUClimate\Richmond_test_ANUdata\2017_Mar_daily_ANU.lst
+Z:\work\0_Common_Data\6_ClimateGridded\4_CSIROGrids\0_Working\ANUSPLIN44\workarea\working\Chi\3_ANUSLIN_trial\2_Working\3_Test_sample_ANUClimate\Richmond_test_ANUdata\2017_Mar_daily_ANU.crv
+Z:\work\0_Common_Data\6_ClimateGridded\4_CSIROGrids\0_Working\ANUSPLIN44\workarea\working\Chi\3_ANUSLIN_trial\2_Working\3_Test_sample_ANUClimate\Richmond_test_ANUdata\Richmond_rain_data_ANU_201703.dat
+300
+20
+
+

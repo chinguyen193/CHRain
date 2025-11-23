@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20250331</CreaDate><CreaTime>11062200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractMultiValuesToPoints" Date="20250331" Time="110622">ExtractMultiValuesToPoints raingauges_hourly_2007_RCD_ECD_d2h "richmond_merged_01dd_avg5ksq.asc DEM_5km" NONE</Process></lineage></DataProperties></Esri></metadata>
